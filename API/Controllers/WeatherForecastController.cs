@@ -6,9 +6,16 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
 namespace API.Controllers
-{
+
+{ 
+    //these are the API attributes
     [ApiController]
+    //is the name of the root of the place
     [Route("[controller]")]
+    //controllers are responsible for returning info once
+    //request is made.  They are what manages the endpoints
+    //it does not use the view functionality that is done using
+    //react
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
@@ -22,7 +29,7 @@ namespace API.Controllers
         {
             _logger = logger;
         }
-
+        //end point
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {

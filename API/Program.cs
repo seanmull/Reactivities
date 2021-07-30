@@ -11,11 +11,12 @@ namespace API
 {
     public class Program
     {
+        //what executes when we run the application
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
         }
-
+        //.net has a host called casto that serve the api we build
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>

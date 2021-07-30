@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\API\\API.csproj": {}
+    "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\API\\API.csproj": {
+    "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\SeansPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\API\\obj\\",
+        "projectPath": "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\bt530d\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SeansPC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\bt530d\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Application\\Application.csproj"
+              "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Application\\Application.csproj"
               }
             }
           }
@@ -69,17 +69,17 @@
         }
       }
     },
-    "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Application\\Application.csproj": {
+    "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\SeansPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Application\\obj\\",
+        "projectPath": "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\bt530d\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SeansPC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\bt530d\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -91,11 +91,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Persistance\\Persistance.csproj": {
-                "projectPath": "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Persistance\\Persistance.csproj"
+              "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Persistance\\Persistance.csproj": {
+                "projectPath": "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Persistance\\Persistance.csproj"
               }
             }
           }
@@ -128,17 +128,17 @@
         }
       }
     },
-    "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\SeansPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\bt530d\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SeansPC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\bt530d\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -180,17 +180,17 @@
         }
       }
     },
-    "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Persistance\\Persistance.csproj": {
+    "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Persistance\\Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Persistance\\Persistance.csproj",
+        "projectUniqueName": "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Persistance\\Persistance.csproj",
         "projectName": "Persistance",
-        "projectPath": "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Persistance\\Persistance.csproj",
-        "packagesPath": "C:\\Users\\SeansPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Persistance\\obj\\",
+        "projectPath": "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Persistance\\Persistance.csproj",
+        "packagesPath": "C:\\Users\\bt530d\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SeansPC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\bt530d\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -202,8 +202,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\SeansPC\\Desktop\\CS\\GitHub\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\bt530d\\Desktop\\git\\Reactivities\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -217,6 +217,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

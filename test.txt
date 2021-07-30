@@ -1,1 +1,2 @@
-this is a test.
+if you have problems restoring API go here:
+https://stackoverflow.com/questions/67401228/error-trying-to-create-a-webapi-in-visual-studio-code
