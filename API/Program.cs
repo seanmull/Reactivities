@@ -15,7 +15,7 @@ namespace API
     public class Program
     {
         //what executes when we run the application
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var host = CreateHostBuilder(args).Build();
 
@@ -25,13 +25,14 @@ namespace API
             try
             {
                 var context = services.GetRequiredService<DataContext>();
-                context.Database.Migrate();
+                await context.Database.MigrateAsync();
+                await Seed.SeedData(context);
             }catch(Exception ex)
             {
                 var logger = services.GetRequiredService<Logger<Program>>();
                 logger.LogError(ex, "An error occured during migration");
             }
-            host.Run();
+            await host.RunAsync();
             
         }
         //.net has a host called casto that serve the api we build
